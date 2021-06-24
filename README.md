@@ -9,5 +9,6 @@ Proceedings of the 34th AAAI Conference on Artificial Intelligence.
 - Brown University - Sc.B in Applied Mathematics-Economics, A.B. in Computer Science (2016 - 2020). Supervised by Prof. [Stephen Bach](http://cs.brown.edu/people/sbach/)
 
 ## Honors & Awards
+- Recipient of the 2021-202 Herbold Fellowship.
 - Computing Research Association Outstanding Undergraduate Researcher Honorable Mention (2020).
 - Karen T. Romer Undergraduate Teaching and Research Award (2019).
