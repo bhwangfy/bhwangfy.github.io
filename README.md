@@ -5,11 +5,9 @@ Hi, I am a Ph.D. student of the joint Ph.D. Program of USTC and Microsoft Resear
 - [Creating Training Sets via Weak Indirect Supervision](https://arxiv.org/abs/2110.03484)
 <br>Jieyu Zhang, Bohan Wang, Xiangchen Song, Yujing Wang, Yaming Yang, Jing Bai, Alexander Ratner
 <br>Submitted
-
 - [Creating Training Sets via Weak Indirect Supervision](https://arxiv.org/abs/2110.03484)
 <br>Jieyu Zhang, Bohan Wang, Xiangchen Song, Yujing Wang, Yaming Yang, Jing Bai, Alexander Ratner
 <br>Submitted
-
 - [Machine-Learning Non-Conservative Dynamics for New-Physics Detection](https://arxiv.org/abs/2106.00026)
 <br>Ziming Liu, Bohan Wang, Qi Meng, Wei Chen, Max Tegmark, Tie-Yan Liu
 <br>Submitted
