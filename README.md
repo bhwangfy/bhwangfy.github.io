@@ -24,8 +24,10 @@ Hi, I am a Ph.D. student of the joint Ph.D. Program of USTC and Microsoft Resear
 <br>ICLR 2020.
 
 ## Education
-- University of Science and Technology of China - Joint Ph.D. Program of USTC & MSR (Asia) (2021 - Present). Supervised by Prof. [Wei Chen](https://www.microsoft.com/en-us/research/people/wche/)
-- University of Science and Technology of China - Sc.B in Computational Mathematics. Supervised by Prof. [Jie Wang](https://miralab.ai/people/jie-wang/)
+- University of Science and Technology of China - Joint Ph.D. Program of USTC & MSR (Asia) (2021 - Present). 
+<br>Supervised by Prof. [Wei Chen](https://www.microsoft.com/en-us/research/people/wche/).
+- University of Science and Technology of China - Sc.B in Computational Mathematics. 
+<br>Supervised by Prof. [Jie Wang](https://miralab.ai/people/jie-wang/).
 
 ## Internship
 - Research Assistant - University of Sydney (2019.06-2019.09). 
