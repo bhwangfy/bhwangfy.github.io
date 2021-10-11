@@ -4,13 +4,10 @@ Hi, I am a Ph.D. student of the joint Ph.D. Program of USTC and Microsoft Resear
 ## Prepints
 - [Momentum Doesn't Change the Implicit Bias](https://arxiv.org/abs/2110.03891)
 <br>Bohan Wang, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma
-<br>Submitted
 - [Creating Training Sets via Weak Indirect Supervision](https://arxiv.org/abs/2110.03484)
 <br>Jieyu Zhang, Bohan Wang, Xiangchen Song, Yujing Wang, Yaming Yang, Jing Bai, Alexander Ratner
-<br>Submitted
 - [Machine-Learning Non-Conservative Dynamics for New-Physics Detection](https://arxiv.org/abs/2106.00026)
 <br>Ziming Liu, Bohan Wang, Qi Meng, Wei Chen, Max Tegmark, Tie-Yan Liu
-<br>Submitted
 
 ## Publication (\* denotes equal contribution)
 - [Optimizing Information-theoretical Generalization Bound via Anisotropic Noise in SGLD](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=27503).
