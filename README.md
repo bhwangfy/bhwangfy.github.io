@@ -2,15 +2,15 @@
 Hi, I am a Ph.D. student of the joint Ph.D. Program of USTC and Microsoft Research (Asia). I am very fortunate to be advised by Professor [Wei Chen](https://www.microsoft.com/en-us/research/people/wche/) and Professor [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html). I also work closely with Professor [Ruoyu Sun](https://ruoyus.github.io/). 
 
 ## Prepints
--[Creating Training Sets via Weak Indirect Supervision](https://arxiv.org/abs/2110.03484)
+- [Creating Training Sets via Weak Indirect Supervision](https://arxiv.org/abs/2110.03484)
 <br>Jieyu Zhang, Bohan Wang, Xiangchen Song, Yujing Wang, Yaming Yang, Jing Bai, Alexander Ratner
 <br>Submitted
 
--[Creating Training Sets via Weak Indirect Supervision](https://arxiv.org/abs/2110.03484)
+- [Creating Training Sets via Weak Indirect Supervision](https://arxiv.org/abs/2110.03484)
 <br>Jieyu Zhang, Bohan Wang, Xiangchen Song, Yujing Wang, Yaming Yang, Jing Bai, Alexander Ratner
 <br>Submitted
 
--[Machine-Learning Non-Conservative Dynamics for New-Physics Detection](https://arxiv.org/abs/2106.00026)
+- [Machine-Learning Non-Conservative Dynamics for New-Physics Detection](https://arxiv.org/abs/2106.00026)
 <br>Ziming Liu, Bohan Wang, Qi Meng, Wei Chen, Max Tegmark, Tie-Yan Liu
 <br>Submitted
 
