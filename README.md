@@ -2,8 +2,8 @@
 Hi, I am a Ph.D. student of the joint Ph.D. Program of USTC and Microsoft Research (Asia). I am very fortunate to be advised by Professor [Wei Chen](https://www.microsoft.com/en-us/research/people/wche/) and Professor [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html). I also work closely with Professor [Ruoyu Sun](https://ruoyus.github.io/). 
 
 ## Prepints
-- [Creating Training Sets via Weak Indirect Supervision](https://arxiv.org/abs/2110.03484)
-<br>Jieyu Zhang, Bohan Wang, Xiangchen Song, Yujing Wang, Yaming Yang, Jing Bai, Alexander Ratner
+- [Momentum Doesn't Change the Implicit Bias](https://arxiv.org/abs/2110.03891)
+<br>Bohan Wang, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma
 <br>Submitted
 - [Creating Training Sets via Weak Indirect Supervision](https://arxiv.org/abs/2110.03484)
 <br>Jieyu Zhang, Bohan Wang, Xiangchen Song, Yujing Wang, Yaming Yang, Jing Bai, Alexander Ratner
@@ -31,8 +31,10 @@ Hi, I am a Ph.D. student of the joint Ph.D. Program of USTC and Microsoft Resear
 - University of Science and Technology of China - Sc.B in Computational Mathematics. Supervised by Prof. [Jie Wang](https://miralab.ai/people/jie-wang/)
 
 ## Internship
-- Research Assistant - University of Sydney (2019.06-2019.09). Supervised by Prof. [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html)
-- Star Bridge Research Assistant - Microsoft Research (Asia) (2020.09-2021.08). Supervised by Prof. [Wei Chen](https://www.microsoft.com/en-us/research/people/wche/).
+- Research Assistant - University of Sydney (2019.06-2019.09). 
+<br> Supervised by Prof. [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html)
+- Star Bridge Research Assistant - Microsoft Research (Asia) (2020.09-2021.08)
+<br> Supervised by Prof. [Wei Chen](https://www.microsoft.com/en-us/research/people/wche/).
 
 ## Contact
 Email: bhwangfy@gmail.com
