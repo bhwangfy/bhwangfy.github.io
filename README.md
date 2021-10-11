@@ -12,7 +12,7 @@ Hi, I am a Ph.D. student of the joint Ph.D. Program of USTC and Microsoft Resear
 ## Publication (\* denotes equal contribution)
 - [Optimizing Information-theoretical Generalization Bound via Anisotropic Noise in SGLD](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=27503).
 <br>Bohan Wang, Huishuai Zhang, Jieyu Zhang, Qi Meng, Wei Chen, Tie-Yan Liu.
-<br>Neurips 2021.
+<br>NeurIPS 2021.
 - [The Implicit Bias for Adaptive Optimization Algorithms on Homogeneous Neural Networks](http://proceedings.mlr.press/v139/wang21q.html)
 <br>Bohan Wang, Qi Meng, Wei Chen, Tie-Yan Liu. 
 <br>ICML 2021 (Long Presentation).
