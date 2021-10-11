@@ -1,5 +1,5 @@
 ## About Myself
-Hi, I am a Ph.D. student of the joint Ph.D. Program of USTC and Microsoft Research (Asia). I am very fortunate to be advised by Professor [Wei Chen](https://www.microsoft.com/en-us/research/people/wche/) and Professor [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html). I also work closely with Professor [Ruoyu Sun] (https://ruoyus.github.io/). 
+Hi, I am a Ph.D. student of the joint Ph.D. Program of USTC and Microsoft Research (Asia). I am very fortunate to be advised by Professor [Wei Chen](https://www.microsoft.com/en-us/research/people/wche/) and Professor [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html). I also work closely with Professor [Ruoyu Sun](https://ruoyus.github.io/). 
 
 ## Publication (\* denotes equal contribution)
 - [Optimizing Information-theoretical Generalization Bound via Anisotropic Noise in SGLD](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=27503).
