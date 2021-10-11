@@ -6,7 +6,9 @@ Hi, I am a Ph.D. student of the joint Ph.D. Program of USTC and Microsoft Resear
 Bohan Wang, Huishuai Zhang, Jieyu Zhang, Qi Meng, Wei Chen, Tie-Yan Liu.
 Thirty-fifth Conference on Neural Information Processing Systems.
 - [The Implicit Bias for Adaptive Optimization Algorithms on Homogeneous Neural Networks](http://proceedings.mlr.press/v139/wang21q.html)
+
 Bohan Wang, Qi Meng, Wei Chen, Tie-Yan Liu. 
+
 Proceedings of the 38th International Conference on Machine Learning (Long Presentation), 2021
 - [Tighter generalization bounds for iterative differentially private learning algorithms](https://www.auai.org/uai2021/pdf/uai2021.308.pdf)
 \*Fengxiang He, \*Bohan Wang, Dacheng Tao.
