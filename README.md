@@ -1,6 +1,10 @@
 ## About Myself
 Hi, I am a Ph.D. student of the joint Ph.D. Program of USTC and Microsoft Research (Asia). I am very fortunate to be advised by Professor [Wei Chen](https://www.microsoft.com/en-us/research/people/wche/) and Professor [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html). I also work closely with Professor [Ruoyu Sun](https://ruoyus.github.io/). 
 
+## Research Interests
+The linear span of optimization, generalization and representation in deep learning.
+
+
 ## Prepints
 - [Momentum Doesn't Change the Implicit Bias](https://arxiv.org/abs/2110.03891)
 <br>**Bohan Wang**, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma
@@ -34,6 +38,9 @@ Hi, I am a Ph.D. student of the joint Ph.D. Program of USTC and Microsoft Resear
 <br> Supervised by Prof. [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html)
 - Star Bridge Research Assistant - Microsoft Research (Asia) (2020.09-2021.08)
 <br> Supervised by Prof. [Wei Chen](https://www.microsoft.com/en-us/research/people/wche/).
+
+## Miscellaneous
+The photo is taken by my girl friend [Xianyi Tao](https://www.linkedin.com/in/xianyi-tao-622171137/?originalSubdomain=cn). We have met since we were high school classmates.
 
 ## Contact
 Email: bhwangfy@gmail.com
