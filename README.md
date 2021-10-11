@@ -8,6 +8,9 @@ Thirty-fifth Conference on Neural Information Processing Systems.
 - [The Implicit Bias for Adaptive Optimization Algorithms on Homogeneous Neural Networks](http://proceedings.mlr.press/v139/wang21q.html)
 Bohan Wang, Qi Meng, Wei Chen, Tie-Yan Liu. 
 Proceedings of the 38th International Conference on Machine Learning (Long Presentation), 2021
+- [Tighter generalization bounds for iterative differentially private learning algorithms](https://www.auai.org/uai2021/pdf/uai2021.308.pdf)
+\*Fengxiang He, \*Bohan Wang, Dacheng Tao
+- [Piecewise linear activations substantially shape the loss surfaces of neural networks]
 
 ## Education
 - University of Science and Technology of China - Joint Ph.D. Program of USTC & MSR (Asia) (2021 - Present). Supervised by Prof. [Wei Chen](https://www.microsoft.com/en-us/research/people/wche/)
