@@ -29,7 +29,7 @@ The linear span of optimization, generalization and representation in deep learn
 
 ## Education
 - University of Science and Technology of China - Joint Ph.D. Program of USTC & MSR (Asia) (2021 - Present). 
-<br>Supervised by Prof. [Wei Chen](https://www.microsoft.com/en-us/research/people/wche/).
+<br>Supervised by Prof. [Wei Chen](https://www.microsoft.com/en-us/research/people/wche/) and Prof. [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html).
 - University of Science and Technology of China - Sc.B in Computational Mathematics. 
 <br>Supervised by Prof. [Jie Wang](https://miralab.ai/people/jie-wang/).
 
