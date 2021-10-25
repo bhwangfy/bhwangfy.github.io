@@ -2,7 +2,7 @@
 Hi, I am a Ph.D. student of the joint Ph.D. Program of USTC and Microsoft Research (Asia). I am very fortunate to be advised by Professor [Wei Chen](https://www.microsoft.com/en-us/research/people/wche/) and Professor [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html). I also work closely with Professor [Ruoyu Sun](https://ruoyus.github.io/). 
 
 ## Research Interests
-The linear span of optimization, generalization and representation in deep learning.
+I am broadly interested in the linear span of optimization, generalization and representation in deep learning.
 
 
 ## Prepints
@@ -10,10 +10,12 @@ The linear span of optimization, generalization and representation in deep learn
 <br>**Bohan Wang**, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma
 - [Creating Training Sets via Weak Indirect Supervision](https://arxiv.org/abs/2110.03484)
 <br>Jieyu Zhang, **Bohan Wang**, Xiangchen Song, Yujing Wang, Yaming Yang, Jing Bai, Alexander Ratner
-- [Machine-Learning Non-Conservative Dynamics for New-Physics Detection](https://arxiv.org/abs/2106.00026)
-<br>Ziming Liu, **Bohan Wang**, Qi Meng, Wei Chen, Max Tegmark, Tie-Yan Liu
+
 
 ## Publication (\* denotes equal contribution)
+- [Machine-Learning Non-Conservative Dynamics for New-Physics Detection](https://arxiv.org/abs/2106.00026)
+<br>Ziming Liu, **Bohan Wang**, Qi Meng, Wei Chen, Max Tegmark, Tie-Yan Liu.
+<br>Physics Review E.
 - [Optimizing Information-theoretical Generalization Bound via Anisotropic Noise in SGLD](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=27503).
 <br>**Bohan Wang**, Huishuai Zhang, Jieyu Zhang, Qi Meng, Wei Chen, Tie-Yan Liu.
 <br>NeurIPS 2021.
