@@ -41,6 +41,9 @@ I am broadly interested in the linear span of optimization, generalization and r
 - Star Bridge Research Assistant - Microsoft Research (Asia) (2020.09-2021.08)
 <br> Supervised by Prof. [Wei Chen](https://www.microsoft.com/en-us/research/people/wche/).
 
+## Awards
+- Travel Award, Neurips 2021.
+
 ## Miscellaneous
 The photo is taken by my girl friend [Xianyi Tao](https://www.linkedin.com/in/xianyi-tao-622171137/?originalSubdomain=cn). We have met since we were high school classmates.
 
