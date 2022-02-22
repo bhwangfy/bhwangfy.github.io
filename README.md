@@ -46,6 +46,9 @@ I am broadly interested in the linear span of optimization, generalization and r
 ## Awards
 - Travel Award, Neurips 2021.
 
+## Professional Service
+- Reviewer for ICML 2022.
+
 ## Miscellaneous
 The photo is taken by my girl friend [Xianyi Tao](https://www.linkedin.com/in/xianyi-tao-622171137/?originalSubdomain=cn). We have met since we were high school classmates.
 
