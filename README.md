@@ -1,5 +1,5 @@
 ## About Myself
-Hi, I am a Ph.D. student of the joint Ph.D. Program of USTC and Microsoft Research (Asia). I am very fortunate to be advised by Professor [Wei Chen](https://www.microsoft.com/en-us/research/people/wche/) and Professor [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html). I also work closely with Professor [Ruoyu Sun](https://ruoyus.github.io/). 
+Hi, I am a Ph.D. student of the joint Ph.D. Program of USTC and Microsoft Research (Asia). I am very fortunate to be advised by Professor [Wei Chen](weichen-cas.github.io) and Professor [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html). I also work closely with Professor [Ruoyu Sun](https://ruoyus.github.io/). 
 
 ## Research Interests
 I am broadly interested in the linear span of optimization, generalization and representation in deep learning.
@@ -33,7 +33,7 @@ I am broadly interested in the linear span of optimization, generalization and r
 
 ## Education
 - University of Science and Technology of China - Joint Ph.D. Program of USTC & MSR (Asia) (2021 - Present). 
-<br>Supervised by Prof. [Wei Chen](https://www.microsoft.com/en-us/research/people/wche/) and Prof. [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html).
+<br>Supervised by Prof. [Wei Chen](weichen-cas.github.io) and Prof. [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html).
 - University of Science and Technology of China - Sc.B in Computational Mathematics. 
 <br>Supervised by Prof. [Jie Wang](https://miralab.ai/people/jie-wang/).
 
@@ -41,7 +41,7 @@ I am broadly interested in the linear span of optimization, generalization and r
 - Research Assistant - University of Sydney (2019.06-2019.09). 
 <br> Supervised by Prof. [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html)
 - Star Bridge Research Assistant - Microsoft Research (Asia) (2020.09-2021.08)
-<br> Supervised by Prof. [Wei Chen](https://www.microsoft.com/en-us/research/people/wche/).
+<br> Supervised by Prof. [Wei Chen](weichen-cas.github.io).
 
 ## Awards
 - Travel Award, Neurips 2021.
