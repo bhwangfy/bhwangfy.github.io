@@ -1,5 +1,5 @@
 ## About Myself
-Hi, I am a Ph.D. student of the joint Ph.D. Program of USTC and Microsoft Research (Asia). I am very fortunate to be advised by Professor [Wei Chen](weichen-cas.github.io) and Professor [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html). I also work closely with Professor [Ruoyu Sun](https://ruoyus.github.io/). 
+Hi, I am a Ph.D. student of the joint Ph.D. Program of USTC and Microsoft Research (Asia). I am very fortunate to be advised by Professor [Wei Chen](weichen-cas.github.io) and Professor [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html). I also work closely with [Dr. Qi Meng](https://www.microsoft.com/en-us/research/people/meq/), [Dr. Huishuai Zhang](https://www.microsoft.com/en-us/research/people/huzhang/), and [Prof. Ruoyu Sun](https://ruoyus.github.io/). 
 
 ## Research Interests
 I am broadly interested in the linear span of optimization, generalization and representation in deep learning.
