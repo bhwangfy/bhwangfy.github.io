@@ -6,8 +6,8 @@ I am broadly interested in the linear span of optimization, generalization and r
 
 
 ## Prepints
-- [Momentum Doesn't Change the Implicit Bias](https://arxiv.org/abs/2110.03891)
-<br>**Bohan Wang**, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma
+- [Does Momentum Change the Implicit Regularization on Separable Data?](https://arxiv.org/abs/2110.03891)
+<br>**Bohan Wang**, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu
 
 
 
