@@ -48,7 +48,7 @@ I am broadly interested in the linear span of optimization, generalization and r
 
 ## Professional Service
 - Reviewer for ICML 2022, Neurips 2022.
-- I cofound the Theory Lecture Series of Microsoft Research Asia Theory Center, featuring inviting researchers around the world to share the latest theoretical advances in big data, artificial intelligence, and related areas.
+- I cofound the Theory Lecture Series of Microsoft Research Asia Theory Center, featuring the latest theoretical advances in big data, artificial intelligence, and related areas.
 
 ## Miscellaneous
 The photo is taken by my girl friend [Xianyi Tao](https://www.linkedin.com/in/xianyi-tao-622171137/?originalSubdomain=cn). We have met since we were high school classmates.
