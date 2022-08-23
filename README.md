@@ -6,6 +6,9 @@ I am broadly interested in the linear span of optimization, generalization and r
 
 
 ## Prepints
+- [Provable Adaptivity in Adam](https://arxiv.org/abs/2208.09900)
+<br>**Bohan Wang**, Yushun Zhang, Huishuai Zhang, Qi Meng, Zhi-Ming Ma, Tie-Yan Liu, Wei Chen
+
 - [Does Momentum Change the Implicit Regularization on Separable Data?](https://arxiv.org/abs/2110.03891)
 <br>**Bohan Wang**, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu
 
