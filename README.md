@@ -8,7 +8,7 @@ I am broadly interested in the linear span of optimization, generalization and r
 ## Prepints
 - [Provable Adaptivity in Adam](https://arxiv.org/abs/2208.09900)
 <br>**Bohan Wang**, Yushun Zhang, Huishuai Zhang, Qi Meng, Zhi-Ming Ma, Tie-Yan Liu, Wei Chen
-<br>A very exciting Paper on why Adam outperforms SGD from the perspective of convergence analysis. A brief introduction (in Chinese) can be found [here](https://www.zhihu.com/question/323747423/answer/2642005682).
+<br>A very exciting Paper on why Adam outperforms SGD from the perspective of global convergence analysis. A brief introduction (in Chinese) can be found [here](https://www.zhihu.com/question/323747423/answer/2642005682).
 
 - [Does Momentum Change the Implicit Regularization on Separable Data?](https://arxiv.org/abs/2110.03891)
 <br>**Bohan Wang**, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu
