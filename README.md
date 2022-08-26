@@ -51,7 +51,7 @@ I am broadly interested in the linear span of optimization, generalization and r
 - Travel Award, Neurips 2021.
 
 ## Professional Service
-- Reviewer for ICML 2022, Neurips 2022.
+- Reviewer for AISTATS ICML 2022, Neurips 2022.
 - I cofound the [Theory Lecture Series of Microsoft Research Asia Theory Center](https://www.microsoft.com/en-us/research/event/msr-asia-theory-lecture-series/), featuring the latest theoretical advances in big data, artificial intelligence, and related areas.
 
 ## Miscellaneous
