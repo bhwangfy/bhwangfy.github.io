@@ -27,7 +27,7 @@ I am broadly interested in the linear span of optimization, generalization and r
 <br>NeurIPS 2021.
 - [The Implicit Bias for Adaptive Optimization Algorithms on Homogeneous Neural Networks](http://proceedings.mlr.press/v139/wang21q.html)
 <br>**Bohan Wang**, Qi Meng, Wei Chen, Tie-Yan Liu. 
-<br>ICML 2021 (<font color=red><Long Presentation>).
+<br>ICML 2021 (<font color=red>Long Presentation</font>).
 - [Tighter generalization bounds for iterative differentially private learning algorithms](https://www.auai.org/uai2021/pdf/uai2021.308.pdf)
 <br>\*Fengxiang He, \***Bohan Wang**, Dacheng Tao.
 <br>UAI 2021.
