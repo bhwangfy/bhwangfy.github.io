@@ -16,7 +16,7 @@ I am broadly interested in the linear span of optimization, generalization and r
 ## Publication (\* denotes equal contribution)
 - [Does Momentum Change the Implicit Regularization on Separable Data?](https://arxiv.org/abs/2110.03891)
 <br>**Bohan Wang**, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu
-<br>Neurips 2022.
+<br>Neurips 2022 (<font color=red>Spotlight</font>).
 - [Creating Training Sets via Weak Indirect Supervision](https://arxiv.org/abs/2110.03484)
 <br>Jieyu Zhang, **Bohan Wang**, Xiangchen Song, Yujing Wang, Yaming Yang, Jing Bai, Alexander Ratner.
 <br>ICLR 2022.
