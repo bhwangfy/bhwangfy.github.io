@@ -14,7 +14,7 @@ I am broadly interested in the linear span of optimization, generalization and r
 
 
 ## Publication (\* denotes equal contribution)
--[$\mathcal{O}$-GNN: incorporating ring priors into molecular modeling](https://openreview.net/forum?id=5cFfz6yMVPU)
+- [$\mathcal{O}$-GNN: incorporating ring priors into molecular modeling](https://openreview.net/forum?id=5cFfz6yMVPU)
 <br>Jinhua Zhu, Kehan Wu, **Bohan Wang**, Yingce Xia, Shufang Xie, Qi Meng, Lijun Wu, Tao Qin, Wengang Zhou, Houqiang Li, Tie-Yan Liu
 <br>ICLR 2023.
 - [Does Momentum Change the Implicit Regularization on Separable Data?](https://arxiv.org/abs/2110.03891)
