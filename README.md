@@ -14,6 +14,9 @@ I am broadly interested in the linear span of optimization, generalization and r
 
 
 ## Publication (\* denotes equal contribution)
+- [Convergence of AdaGrad for Non-convex Objectives: Simple Proofs and Relaxed Assumptions]
+<br>**Bohan Wang**, Huishuai Zhang, Zhi-Ming Ma, Wei Chen
+<br>COLT 2023.
 - [$\mathcal{O}$-GNN: incorporating ring priors into molecular modeling](https://openreview.net/forum?id=5cFfz6yMVPU)
 <br>Jinhua Zhu, Kehan Wu, **Bohan Wang**, Yingce Xia, Shufang Xie, Qi Meng, Lijun Wu, Tao Qin, Wengang Zhou, Houqiang Li, Tie-Yan Liu
 <br>ICLR 2023.
