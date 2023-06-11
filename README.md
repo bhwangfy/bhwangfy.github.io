@@ -2,7 +2,7 @@
 Hi, I am a Ph.D. student of the joint Ph.D. Program of USTC and Microsoft Research (Asia). I am very fortunate to be advised by Prof. [Wei Chen](https://weichen-cas.github.io/) and Prof. [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html). I also work closely with [Dr. Qi Meng](https://www.microsoft.com/en-us/research/people/meq/), [Dr. Huishuai Zhang](https://www.microsoft.com/en-us/research/people/huzhang/), and [Prof. Ruoyu Sun](https://ruoyus.github.io/). 
 
 ## Research Interests
-I am broadly interested in the linear span of optimization, generalization and representation in deep learning.
+My current research interest is **optimization in deep learning**. I am eager to understand the underlying mechanism of optimizers' behavior over deep neural networks. My ultimate goal is to build effective and stable optimizers for deep learning, especially for large models. Please don't hesitate to drop an email if you are interested to collaborate!
 
 
 ## News
