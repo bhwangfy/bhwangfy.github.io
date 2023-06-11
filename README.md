@@ -5,6 +5,10 @@ Hi, I am a Ph.D. student of the joint Ph.D. Program of USTC and Microsoft Resear
 I am broadly interested in the linear span of optimization, generalization and representation in deep learning.
 
 
+## News
+- I will visit Prof. Ruoyu Sun at The Chinese University of Hong Kong (Shenzhen), starting from June 11th!
+
+
 ## Prepints
 - [Provable Adaptivity in Adam](https://arxiv.org/abs/2208.09900)
 <br>**Bohan Wang**, Yushun Zhang, Huishuai Zhang, Qi Meng, Zhi-Ming Ma, Tie-Yan Liu, Wei Chen
