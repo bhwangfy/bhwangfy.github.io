@@ -6,7 +6,7 @@ I am broadly interested in the linear span of optimization, generalization and r
 
 
 ## News
-- I will visit Prof. Ruoyu Sun at The Chinese University of Hong Kong (Shenzhen), starting from June 11th!
+- I will visit Prof. [Ruoyu Sun](https://ruoyus.github.io/) at The Chinese University of Hong Kong (Shenzhen), starting from June 11th!
 
 
 ## Prepints
