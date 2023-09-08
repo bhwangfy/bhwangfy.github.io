@@ -40,10 +40,10 @@ My current research interest is **optimization in deep learning**. I am eager to
 <br>**Bohan Wang**, Qi Meng, Wei Chen, Tie-Yan Liu. 
 <br>ICML 2021 (<font color=red>Long Presentation</font>).
 - [Tighter generalization bounds for iterative differentially private learning algorithms](https://www.auai.org/uai2021/pdf/uai2021.308.pdf)
-<br>\***Bohan Wang** ,\*Fengxiang He, Dacheng Tao.
+<br>\*Fengxiang He, \***Bohan Wang**, Dacheng Tao.
 <br>UAI 2021.
 - [Piecewise linear activations substantially shape the loss surfaces of neural networks](https://openreview.net/forum?id=B1x6BTEKwr)
-<br>\***Bohan Wang**,  \*Fengxiang He, Dacheng Tao.
+<br>\*Fengxiang He, \***Bohan Wang**, Dacheng Tao.
 <br>ICLR 2020.
 
 ## Education
