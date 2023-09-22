@@ -6,6 +6,7 @@ My current research interest is **optimization in deep learning**. I am eager to
 
 
 ## News
+- Three papers are accepted by NeurIPS 2023! Thanks to all the collaborators!
 - I will visit Prof. [Ruoyu Sun](https://ruoyus.github.io/) at The Chinese University of Hong Kong (Shenzhen), starting from June 11th!
 
 
