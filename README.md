@@ -19,7 +19,15 @@ My current research interest is **optimization in deep learning**. I am eager to
 
 
 ## Publication (\* denotes equal contribution)
-
+- [Closing the gap between the upper bound and lower bound of Adam's iteration complexity]
+<br>\***Bohan Wang**, \*Jingwen Fu, Huishuai Zhang, Nanning Zheng, Wei Chen 
+<br>Neurips 2023.
+- [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224)
+<br>\*Jieyu Zhang, \***Bohan Wang**, Zhengyu Hu, Pang Wei Koh, Alexander Ratner 
+<br>Neurips 2023.
+- [Fast Conditional Mixing of MCMC Algorithms for Non-log-concave Distributions](https://arxiv.org/abs/2306.10506)
+<br>\*Xiang Cheng, \***Bohan Wang**, \*Jingzhao Zhang, \*Yusong Zhu
+<br>Neurips 2023.
 - [Convergence of AdaGrad for Non-convex Objectives: Simple Proofs and Relaxed Assumptions](https://arxiv.org/abs/2305.18471)
 <br>**Bohan Wang**, Huishuai Zhang, Zhi-Ming Ma, Wei Chen
 <br>COLT 2023.
