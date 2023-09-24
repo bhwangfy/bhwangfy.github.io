@@ -19,6 +19,7 @@ My current research interest is **optimization in deep learning**. I am eager to
 
 
 ## Publication (\* denotes equal contribution)
+
 - [Convergence of AdaGrad for Non-convex Objectives: Simple Proofs and Relaxed Assumptions](https://arxiv.org/abs/2305.18471)
 <br>**Bohan Wang**, Huishuai Zhang, Zhi-Ming Ma, Wei Chen
 <br>COLT 2023.
@@ -63,11 +64,12 @@ My current research interest is **optimization in deep learning**. I am eager to
 - Travel Award, Neurips 2021.
 
 ## Professional Service
-- Reviewer for AISTATS 2022, ICML 2022, Neurips 2022, ACML 2022.
+- Reviewer for AISTATS, ICML, Neurips, ACML, ICLR, ALT.
 - I cofound the [Theory Lecture Series of Microsoft Research Asia Theory Center](https://www.microsoft.com/en-us/research/event/msr-asia-theory-lecture-series/), featuring the latest theoretical advances in big data, artificial intelligence, and related areas.
+- I am an organizer of [FAI-Seminar](https://www.fai-seminar.ac.cn/), featuring the recent advantages in Foundational Artificial Intelligence. The speakers are mostly Ph.D. students. Drop me an email (or send it to [tjy20@mails.tsinghua.edu.cn](tjy20@mails.tsinghua.edu.cn)) if you want to become a speaker!
 
 ## Miscellaneous
-The photo is taken by my girl friend [Xianyi Tao](https://www.linkedin.com/in/xianyi-tao-622171137/?originalSubdomain=cn). We have met since we were high school classmates.
+The photo was taken by my girlfriend [Xianyi Tao](https://www.linkedin.com/in/xianyi-tao-622171137/?originalSubdomain=cn). We have met since we were high school classmates.
 
 ## Contact
 Email: bhwangfy@gmail.com
