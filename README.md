@@ -19,7 +19,7 @@ My current research interest is **optimization in deep learning**. I am eager to
 
 
 ## Publication (\* denotes equal contribution)
-- [Closing the gap between the upper bound and lower bound of Adam's iteration complexity]
+- [Closing the gap between the upper bound and lower bound of Adam's iteration complexity](https://openreview.net/forum?id=yDvb3mlogA)
 <br>\***Bohan Wang**, \*Jingwen Fu, Huishuai Zhang, Nanning Zheng, Wei Chen 
 <br>Neurips 2023.
 - [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224)
