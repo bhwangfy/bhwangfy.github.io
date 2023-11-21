@@ -6,6 +6,7 @@ My current research interest is **optimization in deep learning**. I am eager to
 
 
 ## News
+- One paper is accepted to NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning as Oral!
 - Three papers are accepted by NeurIPS 2023! Thanks to all the collaborators!
 - I will visit Prof. [Ruoyu Sun](https://ruoyus.github.io/) at The Chinese University of Hong Kong (Shenzhen), starting from June 11th!
 
@@ -19,6 +20,9 @@ My current research interest is **optimization in deep learning**. I am eager to
 
 
 ## Publication (\* denotes equal contribution)
+- [Large Catapults in Momentum Gradient Descent with Warmup: An Empirical Study](https://nips.cc/virtual/2023/81672)
+<br>Prin Phunyaphibarn, Junghyun Lee, **Bohan Wang**, Huishuai Zhang, Chulhee Yun
+<br>NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning (Oral)
 - [Closing the gap between the upper bound and lower bound of Adam's iteration complexity](https://openreview.net/forum?id=yDvb3mlogA)
 <br>\***Bohan Wang**, \*Jingwen Fu, Huishuai Zhang, Nanning Zheng, Wei Chen 
 <br>Neurips 2023.
