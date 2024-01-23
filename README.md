@@ -6,6 +6,7 @@ My current research interest is **optimization in deep learning**. I am eager to
 
 
 ## News
+- Invited to give a talk on the [KAUST Rising Stars in AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024)!
 - One paper is accepted to NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning as Oral!
 - Three papers are accepted by NeurIPS 2023! Thanks to all the collaborators!
 - I will visit Prof. [Ruoyu Sun](https://ruoyus.github.io/) at The Chinese University of Hong Kong (Shenzhen), starting from June 11th!
