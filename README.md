@@ -6,6 +6,7 @@ My current research interest is **optimization in deep learning**. I am eager to
 
 
 ## News
+- Temporarily leave MSRA and start an internship @ Bytedance AI lab 
 - Invited to give a talk on the [KAUST Rising Stars in AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024)!
 - One paper is accepted to NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning as Oral!
 - Three papers are accepted by NeurIPS 2023! Thanks to all the collaborators!
