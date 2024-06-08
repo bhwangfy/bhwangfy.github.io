@@ -14,14 +14,16 @@ My current research interest is **optimization in deep learning**. I am eager to
 
 
 ## Prepints
-- [Provable Adaptivity in Adam](https://arxiv.org/abs/2208.09900)
-<br>**Bohan Wang**, Yushun Zhang, Huishuai Zhang, Qi Meng, Zhi-Ming Ma, Tie-Yan Liu, Wei Chen
-<br> A brief introduction (in Chinese) can be found [here](https://www.zhihu.com/question/323747423/answer/2642005682).
+
 
 
 
 
 ## Publication (\* denotes equal contribution)
+- [Provable Adaptivity in Adam](https://arxiv.org/abs/2208.09900)
+<br>**\*Bohan Wang**, \*Yushun Zhang, Huishuai Zhang, Qi Meng, Zhi-Ming Ma, Tie-Yan Liu, Wei Chen
+<br> A brief introduction (in Chinese) can be found [here](https://www.zhihu.com/question/323747423/answer/2642005682)
+<br> KDD 2024
 - [Large Catapults in Momentum Gradient Descent with Warmup: An Empirical Study](https://nips.cc/virtual/2023/81672)
 <br>Prin Phunyaphibarn, Junghyun Lee, **Bohan Wang**, Huishuai Zhang, Chulhee Yun
 <br>NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning (Oral)
