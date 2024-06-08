@@ -7,6 +7,8 @@ I am deeply interested in the interplay between deep learning and mathematics. S
 - **Mathematics for Deep Learning**: I am fascinated by how humans can understand deep neural networks and, more importantly, leverage this understanding to develop better models. My particular interest lies in optimization for deep learning, which I believe is one of the most critical areas where mathematics can make a significant impact. The ultimate goal in this direction is **designing the next Adam**.
 
 - **Deep Learning for Mathematics (AI for Math)**: The impressive capabilities of large language models as natural language chatbots naturally lead to the question of whether these models can also serve as chatbots for mathematics. I am especially interested in how we can enhance language models using formal verifiers (such as Lean 4). I am a firm believer that AI will revolutionize the way human mathematicians develop mathematics and will eventually replace human mathematicians.
+
+
 ## News
 - Temporarily leave MSRA and start an internship @ Bytedance AI lab 
 - Invited to give a talk on the [KAUST Rising Stars in AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024)!
