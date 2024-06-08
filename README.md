@@ -2,9 +2,11 @@
 Hi, I am a Ph.D. student of the joint Ph.D. Program of USTC and Microsoft Research (Asia). I am very fortunate to be advised by Prof. [Wei Chen](https://weichen-cas.github.io/) and Prof. [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html). I also work closely with [Dr. Qi Meng](https://www.microsoft.com/en-us/research/people/meq/), [Dr. Huishuai Zhang](https://www.microsoft.com/en-us/research/people/huzhang/), and [Prof. Ruoyu Sun](https://ruoyus.github.io/). 
 
 ## Research Interests
-My current research interest is **optimization in deep learning**. I am eager to understand the underlying mechanism of optimizers' behavior over deep neural networks. My ultimate goal is to build effective and stable optimizers for deep learning, especially for large models. Please don't hesitate to drop an email if you are interested to collaborate!
+I am deeply interested in the interplay between deep learning and mathematics. Specifically, my research focuses on two main areas:
 
+- **Mathematics for Deep Learning**: I am fascinated by how humans can understand deep neural networks and, more importantly, leverage this understanding to develop better models. My particular interest lies in optimization for deep learning, which I believe is one of the most critical areas where mathematics can make a significant impact. The ultimate goal in this direction is **designing the next Adam**.
 
+- **Deep Learning for Mathematics (AI for Math)**: The impressive capabilities of large language models as natural language chatbots naturally lead to the question of whether these models can also serve as chatbots for mathematics. I am especially interested in how we can enhance language models using formal verifiers (such as Lean 4). I am a firm believer that AI will revolutionize the way human mathematicians develop mathematics and will eventually replace human mathematicians.
 ## News
 - Temporarily leave MSRA and start an internship @ Bytedance AI lab 
 - Invited to give a talk on the [KAUST Rising Stars in AI Symposium 2024](https://cemse.kaust.edu.sa/ai/aii-symp-2024)!
