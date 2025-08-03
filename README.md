@@ -24,6 +24,9 @@ I am deeply interested in the interplay between deep learning and mathematics. S
 
 
 ## Publication (\* denotes equal contribution)
+- [Solving Formal Math Problems by Decomposition and Iterative Reflection])(https://arxiv.org/abs/2507.15225)
+- <br>**Core Contributor**
+- Achieving 95.9% accuracy over the miniF2F test without any model training, and the (modified) workflow is adopted by [Seed Prover](https://arxiv.org/abs/2507.23726) participating in IMO 2025 
 - [Provable Adaptivity in Adam](https://arxiv.org/abs/2208.09900)
 <br>**\*Bohan Wang**, \*Yushun Zhang, Huishuai Zhang, Qi Meng, Zhi-Ming Ma, Tie-Yan Liu, Wei Chen
 <br> A brief introduction (in Chinese) can be found [here](https://www.zhihu.com/question/323747423/answer/2642005682)
